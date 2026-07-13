@@ -75,3 +75,32 @@ Some of the main challenges included:
 DevLingo is currently under development.
 
 New features, improvements and technical refinements are being added as the platform evolves.
+
+## Screenshots
+
+### Login and Authentication
+![DevLingo login screen](assets/login.png)
+
+### Learning Map
+![DevLingo learning map](assets/learning-map.png)
+
+### Exercise Session
+![DevLingo exercise session](assets/exercise-session.png)
+
+### Ranking
+![DevLingo ranking](assets/ranking.png)
+
+### Dashboard
+Overview of the user’s learning progress, activity and platform features.
+
+![DevLingo dashboard](assets/dashboard.png)
+
+### Daily Missions
+Gamification system with objectives designed to encourage regular learning activity.
+
+![DevLingo missions](assets/missions.png)
+
+### Friends
+Social feature for connecting with other learners and viewing friendship activity.
+
+![DevLingo friends](assets/amigos.png)
