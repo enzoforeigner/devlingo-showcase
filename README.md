@@ -70,6 +70,19 @@ Some of the main challenges included:
 - Implementing gamification without affecting the learning flow
 - Handling authentication, API errors and database consistency
 
+## Architecture Overview
+
+DevLingo follows a full-stack architecture with separate frontend, backend and database layers.
+
+- **Frontend:** React and Vite
+- **Backend:** FastAPI and SQLAlchemy
+- **Database:** PostgreSQL hosted on Supabase
+- **Communication:** REST APIs
+- **Authentication:** JWT-based authentication
+- **AI Integration:** AI-assisted feedback for exercises
+
+The platform is organized around programming languages, modules, lessons, exercises, student progress and gamification features.
+
 ## Project Status
 
 DevLingo is currently under development.
