@@ -103,4 +103,4 @@ Gamification system with objectives designed to encourage regular learning activ
 ### Friends
 Social feature for connecting with other learners and viewing friendship activity.
 
-![DevLingo friends](assets/amigos.png)
+![DevLingo friends](assets/friends.png)
